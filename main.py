@@ -23,7 +23,7 @@ def return_arguments():
     #testing path
     parser.add_argument('--data_test_dir', default='', help='path to the dataset folder. ')
     #valing path
-    parser.add_argument('--val_data_dir',default='../data/kitti/val',
+    parser.add_argument('--val_data_dir',default='',
                         help='path to the validation dataset folder.'
                         )
     parser.add_argument('--model_path', default='', help='path to the trained model')
