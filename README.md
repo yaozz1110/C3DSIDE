@@ -9,7 +9,7 @@ Ti GPU.
 
 Pre-trained models：
 
-C3DSIDE-resnet18：https://pan.quark.cn/s/2f80f67d7926
+C3DSIDE-resnet18: https://pan.quark.cn/s/2f80f67d7926
 
 C3DSIDE-resnet50：https://pan.quark.cn/s/2c618630f880
 
@@ -17,5 +17,8 @@ C3DSIDE-resnet101：https://pan.quark.cn/s/92c2bb1ee5ad
 
 C3DSIDE-resnext50：https://pan.quark.cn/s/3ed1dbcac42e
 
-C3DSIDE-resnext50：
+C3DSIDE-resnext50：https://pan.quark.cn/s/4e315be855a3
 
+C3DSIDE-densenet121: https://pan.quark.cn/s/295029d36954
+
+C3DSIDE-densenet161: https://pan.quark.cn/s/078eefd6b955
